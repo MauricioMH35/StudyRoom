@@ -1,5 +1,8 @@
 package com.rom.study;
 
+import java.util.Locale;
+import java.util.Scanner;
+
 /** <h1>Desafio 001</h1>
  * Verificar se os números são iguais
  * Imprima se os valores numéricos passados são iguais ou não.
@@ -8,10 +11,6 @@ package com.rom.study;
  * @since October 18, 2022
  * @version 1.0.0
  * */
-
-import java.util.Locale;
-import java.util.Scanner;
-
 public class Desafio001 {
 
     public static void main(String[] args) {
@@ -75,4 +74,5 @@ public class Desafio001 {
 
         }
     }
+
 }
