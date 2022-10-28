@@ -6,7 +6,7 @@ A realização de desafios simples, que podem ser realizados apenas em uma class
 ### 1. [Desafio 001](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio001.java) September 12, 2022 | 12 de Setembro de 2022
 Verificar se os números são iguais Imprima se os valores numéricos passados são iguais ou não.
 
-### 2. [Desafio 002](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio002.java) 
+### 2. [Desafio 002](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio002.java) October 26, 2022 | 26 de October de 2022
 Peque uma data de nascimento de uma pesso e calcule quanto tempo de vida essa pessoa poussí, mas expressa em dias.
 
 ### 3. [Desafio 003](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio003.java) September 13, 2022 | 13 de Setembro de 2022
