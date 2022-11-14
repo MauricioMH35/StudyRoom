@@ -53,5 +53,38 @@ Mova todos os inteiros pares para o inicio do array, seguido por todos os númer
 Realizar uma operação de fatorial que ao invés de realizar apenas a operação de multiplicação dos números que decrecem até se chegar ao resultado esperado do fatorial de determinado número. Deve-se trocar a multiplicação pela sequência de operações aritméticas: * / + -
 Estas devem se repetir até que o resultado desse fatorial desajeitado seja resolvido.
 
+### 15. [Desafio 015 - Repetição de nome](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio015.java) November 14, 2022 | 14 de Novembro de 2022
+Leia o nome e um número do usuário, um número N e escreva o nome dele na tela N vezes.
+
+### 16. [Desafio 016 - Soma de numeros](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio016.java) November 14, 2022 | 14 de Novembro de 2022
+Escreva um algoritmo que leia 10 números do usuário e calcule a soma desses números.
+
+### 17. [Desafio 017 - Soma de idades](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio017.java) November 14, 2022 | 14 de Novembro de 2022
+Leia a idade de 20 pessoas e exiba a soma das idades.
+
+### 18. [Desafio 018 - Media de idade](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio018.java) November 14, 2022 | 14 de Novembro de 2022
+Leia a idade de 20 pessoas e exiba a média das idades.
+
+### 19. [Desafio 019 - Maiores de idade](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio019.java) November 14, 2022 | 14 de Novembro de 2022
+Leia a idade de 20 pessoas e exiba quantas pessoas são maiores de idade.
+
+### 20. [Desafio 020 - A mais nova](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio020.java) November 14, 2022 | 14 de Novembro de 2022
+Leia o nome e a idade de 10 pessoas e exiba o nome da pessoa mais nova.
+
+### 21. [Desafio 021 - Tabuada](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio021.java) November 14, 2022 | 14 de Novembro de 2022
+Crie um algoritmo que leia 20 números do usuário e exiba a sua tabuada de multiplicação.
+
+### 22. [Desafio 022 - Maiores que 8](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio022.java) November 14, 2022 | 14 de Novembro de 2022
+Escreva um algoritmo que leia 20 números do usuário e exiba quantos números são maiores do que 8.
+
+### 23. [Desafio 023 - Todos os pares](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio023.java) November 14, 2022 | 14 de Novembro de 2022
+Escreva um algoritmo que leia 20 numeros do usuario e exiba quantos sao pares.
+
+### 24. [Desafio 024 - Entre zero e 100](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio024.java) November 14, 2022 | 14 de Novembro de 2022
+Escreva um algoritmo que leia 20 numeros do usuario e exiba quantos estao entre 0 e 100.
+
+### 25. [Desafio 025 - Verificação de numeros](https://github.com/MauricioMH35/StudyRoom/blob/main/java/challenges/Simples/src/main/java/com/rom/study/Desafio025.java) November 14, 2022 | 14 de Novembro de 2022
+Faca um algoritmo que leia 20 numeros e, ao final, escreva quantos estao entre 0 e 100, quantos estao entre 101 e 200, e quantos sao maiores de 200.
+
 ## CREATED
 BY MAURICIO MITYO HIDANI, OCTOBER 10, 2022, SÃO PAULO-SP, BRASIL.
